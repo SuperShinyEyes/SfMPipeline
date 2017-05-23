@@ -19,7 +19,7 @@ __status__ = "Production"
 import cv2
 import os
 
-VIDEO_PATH = '/Users/young/Downloads/IMG_4188.MOV'
+VIDEO_PATH = '/Users/young/Downloads/IMG_4188_images.MOV'
 FRAMES_PATH_PREFIX = 'frames'
 
 vidcap = cv2.VideoCapture(VIDEO_PATH)
